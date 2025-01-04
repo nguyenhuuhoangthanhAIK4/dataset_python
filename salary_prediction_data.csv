@@ -97,22 +97,22 @@ PhD,1,Suburban,Director,60,Male,137005.64203097162
 High School,27,Suburban,Director,31,Male,92450.57242382762
 Master,8,Rural,Manager,49,Female,93295.98264861919
 PhD,23,Urban,Manager,23,Male,163104.2755312551
-Bachelor,20,Rural,Analyst,64,Male,89961.7941228838
+Bachelor,,Rural,Analyst,64,Male,89961.7941228838
 High School,6,Rural,Manager,46,Male,71769.55893398654
 Bachelor,5,Rural,Engineer,47,Male,63923.5309909897
 Master,20,Suburban,Analyst,22,Female,112349.77192889052
 High School,5,Urban,Director,22,Male,91289.99587456821
-PhD,6,Rural,Engineer,43,Female,119140.33843647146
+PhD,,Rural,Engineer,43,Female,119140.33843647146
 High School,29,Rural,Engineer,48,Male,71549.7678319231
 Master,13,Rural,Director,38,Female,133122.60510065337
 High School,27,Suburban,Engineer,21,Female,66723.68051821226
 PhD,18,Rural,Director,24,Male,157287.4192480694
-PhD,20,Suburban,Director,56,Female,165810.55944087074
-High School,13,Suburban,Director,37,Female,103723.30317535225
+PhD,,Suburban,Director,56,Female,165810.55944087074
+High School,,Suburban,Director,37,Female,103723.30317535225
 PhD,7,Suburban,Director,44,Female,138575.07809749557
 High School,8,Suburban,Analyst,45,Female,48005.699834384795
 High School,21,Suburban,Engineer,63,Female,83938.8036230838
-High School,17,Urban,Manager,32,Male,80007.84720913025
+High School,,Urban,Manager,32,Male,80007.84720913025
 High School,1,Suburban,Analyst,54,Male,51439.95511443989
 Master,24,Suburban,Manager,41,Female,125825.37782839929
 PhD,16,Rural,Analyst,29,Female,111979.28028586916
@@ -127,7 +127,7 @@ Bachelor,21,Urban,Director,26,Male,126769.34597053225
 High School,21,Suburban,Analyst,36,Female,79183.53730827161
 Bachelor,6,Urban,Analyst,50,Male,57463.59600309587
 Bachelor,25,Urban,Analyst,48,Male,89948.55569043328
-Bachelor,25,Suburban,Director,31,Male,121066.52294503032
+Bachelor,,Suburban,Director,31,Male,121066.52294503032
 PhD,17,Suburban,Manager,52,Female,157190.03279936145
 High School,18,Urban,Analyst,58,Male,80837.44493674728
 PhD,22,Rural,Engineer,45,Male,151013.40051848112
